@@ -1,8 +1,3 @@
-Here’s a clean **README.md** in English for your folder **Neural network - classification**.
-It explains both parts: from-scratch neural net and the Keras/TensorFlow experiments.
-
----
-
 # Neural Network – Classification
 
 [![Python](https://img.shields.io/badge/python-≥3.9-blue.svg)](https://www.python.org/)
